@@ -1,0 +1,8 @@
+This course helped me develop problem-solving skills.
+This course was very challenging.
+My progamming ability increased after taking this course.
+I will list 'Javascript' on my resume.
+I will list 'Perl scripting' on my resume.
+I will list 'PHP scripting' on my resume.
+If I had more time, I would have done better in this course.
+I will recommend this course to other students. 
